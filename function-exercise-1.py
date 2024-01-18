@@ -27,7 +27,7 @@
 #    print(f"2nd fav = {fruit2}")
 #    print(f"3rd fav = {fruit3}")
 
-fruit_list(fruit1 = "apple", fruit3 = "pear", fruit2 = "orange")
+#fruit_list(fruit1 = "apple", fruit3 = "pear", fruit2 = "orange")
 
 
 ######################## **kwargs

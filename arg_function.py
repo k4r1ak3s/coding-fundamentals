@@ -1,5 +1,3 @@
-base = "deep pan"
-
 def make_pizza(size, *toppings, final_message, base = "deep pan", **sides):
     print(f"order for {size}-inch pizza on a {base} base, with the following toppings:")
     for topping in toppings:
